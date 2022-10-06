@@ -1,0 +1,2 @@
+https://ftp.ncbi.nlm.nih.gov/blast/db/ - BLAST adatbázisok
+https://ftp.ncbi.nlm.nih.gov/genbank/ - GenBank adatbázisok
