@@ -1,2 +1,4 @@
+https://www.ncbi.nlm.nih.gov/guide/dna-rna/ főoldal magyarázatokkal
+-------
 https://ftp.ncbi.nlm.nih.gov/blast/db/ - BLAST adatbázisok
 https://ftp.ncbi.nlm.nih.gov/genbank/ - GenBank adatbázisok
