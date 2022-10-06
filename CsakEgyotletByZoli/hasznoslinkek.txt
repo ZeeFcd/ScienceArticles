@@ -1,2 +1,3 @@
 https://mybinder.org/v2/gh/ncbi/datasets/master?filepath=examples/jupyter/ncbi-datasets-pylib/ncbi-datasets-assembly.ipynb
 https://www.ncbi.nlm.nih.gov/datasets/
+https://www.ncbi.nlm.nih.gov/nuccore
