@@ -1,3 +1,9 @@
 https://mybinder.org/v2/gh/ncbi/datasets/master?filepath=examples/jupyter/ncbi-datasets-pylib/ncbi-datasets-assembly.ipynb
 https://www.ncbi.nlm.nih.gov/datasets/
 https://www.ncbi.nlm.nih.gov/nuccore
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7498545/ -tökjó összefgolaló
+
+https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr#scrollTo=U8soCi3qLzmc - transcription-factor binding sites in DNA
+https://www.kaggle.com/code/singhakash/dna-sequencing-with-machine-learning/notebook - DNA Sequencing with Machine Learning
+
